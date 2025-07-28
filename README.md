@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### 🔭 I’m currently working on seo ...
+- 🌱 I’m currently learning in BCA ...
 <!--
 **Socretes-03/Socretes-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
