@@ -8,7 +8,7 @@
 - Currently working on improving my **SEO** skills  
 - Eager to learn and explore new technologies every day
 
----
+
 
 ## 🧠 Skills & Technologies
 
@@ -28,7 +28,7 @@
 - **AI (Fundamentals and tools)**  
 - **Open Source Contributions**
 
----
+
 
 ## 📘 Currently Learning
 
@@ -38,7 +38,7 @@
 - Exploring **AI tools** and **ML basics**
 - Strengthening knowledge in **network security**
 
----
+
 
 ## 🚀 Goals
 
@@ -47,13 +47,13 @@
 - 📈 Improve problem-solving and DSA skills
 - 🌍 Make an impact through tech and innovation
 
----
+
 
 ## 📫 How to reach me:
 
 - **Email:** [krupal.devloper@gmail.com]  
 - **GitHub:** [github.com/Krupal-03](https://github.com/Krupal-03)  
----
+
 
 ## ✨ Fun Facts
 
@@ -61,10 +61,10 @@
 - I believe in learning by doing 🧠💻  
 - Love exploring tech communities and learning from others 🤝
 
----
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
+
 
 
