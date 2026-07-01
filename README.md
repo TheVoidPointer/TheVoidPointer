@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Krupal!
 
-🎓 I'm currently in my **3rd year of BCA** (Bachelor of Computer Applications)  
+### 🎓BCA Graduate | Versatile Software Developer
+#### Strong foundation in core computing, focused on clean code, the KISS methodology (Keep It Simple, Stupid), and efficient problem-solving.
 💻 Passionate about web development, programming, open-source, and cybersecurity  
 🔭 Currently working on improving my **SEO** skills  
 🌱 Eager to learn and explore new technologies every day
